@@ -4,29 +4,24 @@ CREATE DATABASE employdb;
 USE employdb; 
 
 CREATE TABLE Department (
-    id INT NOT NULL AUTO_INCREMENT,
-    name VARCHAR (30)NOT NULL,
-    PRIMARY KEY (id)
+    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR (30)NOT NULL,    
 );
 
 CREATE TABLE Role (
-    id INT NOT NULL AUTO_INCREMENT,
+    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(30)NOT NULL,
     salary DECIMAL NOT NULL,
-    department_id INT,
-    PRIMARY KEY (id),
+    department_id INT,   
     FOREIGN KEY (department_id) REFERENCES Department(id)
-
 );
 
-
 CREATE TABLE Employee (
-    id INT NOT NULL AUTO_INCREMENT,
+    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(30) NOT NULL,
     last_name VARCHAR (30)NOT NULL,
     role_id INTEGER,
     manager_id INTEGER,
-    PRIMARY KEY (id),
     FOREIGN KEY (role_id) REFERENCES Role(id),
     FOREIGN KEY (manager_id) REFERENCES employee(id)
     
