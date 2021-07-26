@@ -5,10 +5,11 @@
 *  Add -department ,employee and role
 *  Update emprole
 
-* Used mysql -u root -p to login to DB;source schema.sql ; Use db; Show tables ;source seed.sql to populate db   ;* Installed& tested several npm packages - config.dotenv  ;  mysql2  -also used features  that are in in the ongoing sessions.
+* Commands used : mysql -u root -p--source schema.sql-- Use db-- Show tables ;source seed.sql to populate tables and hence the db   ;
+* Installed& tested several npm packages - config.dotenv  ;  mysql2  -also used features  that are in in the ongoing sessions.
 
 * Challenges :Had github issues-resolved -thanks to support team.
-* An audio content with visual could have made  a better output.
+* Need to add an audio content with visual for clarity .
 
      Visual 
 <img src="./workforce.gif"> 
