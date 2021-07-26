@@ -291,7 +291,7 @@ function UpdateFn() {
             );
         })
  .then(res => {
-           console.log('View employee table  and get to the emp first name to confirm the update')
+           console.log('View employees  and get to the emp first name to confirm the update')
             runQuery();
         })
         .catch(err => {
