@@ -7,6 +7,7 @@
 * Installed& tested several npm packages - config.dotenv  ;  mysql2  -also used features  that are in in the ongoing sessions.
 
 * Challenges :Had github issues in the last few days ;GH commands used and tested for past HWs did not work this time .Thanks to BCSLA.
+* An audio content with visual could have made  a better output.
 
      Visual 
 <img src="./workforce.gif"> 
