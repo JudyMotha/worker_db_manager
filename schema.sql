@@ -1,6 +1,5 @@
 DROP DATABASE IF EXISTS employdb;
 CREATE DATABASE employdb;
-
 USE employdb; 
 
 CREATE TABLE Department (
