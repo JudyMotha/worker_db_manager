@@ -6,7 +6,7 @@
 *  Update emprole
 * Installed& tested several npm packages - config.dotenv  ;  mysql2  -also used features  that are in in the ongoing sessions.
 
-* Challenges :Had github issues;Thanks to support team.
+* Challenges :Had github issues-resolved -thanks to support team.
 * An audio content with visual could have made  a better output.
 
      Visual 
