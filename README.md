@@ -11,5 +11,4 @@
 * Challenges :Had github issues-resolved -thanks to support team.
 * Need to add an audio content with visual for clarity .
 
-     Visual 
-<img src="./workforce.gif"> 
+    
