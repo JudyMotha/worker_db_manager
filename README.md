@@ -9,6 +9,6 @@
 * Installed& tested several npm packages - config.dotenv  ;  mysql2  -also used features  that are in in the ongoing sessions.
 
 * Challenges :Had github issues-resolved -thanks to support team.
-* Need to add an audio content with visual for clarity .
+
 
     
